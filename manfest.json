@@ -1,8 +1,0 @@
-{
-"name": "Appointment Manager",
-"short_name": "Appointments",
-"start_url": "index.html",
-"display": "standalone",
-"background_color": "#ffffff",
-"theme_color": "#6c5ce7"
-}
